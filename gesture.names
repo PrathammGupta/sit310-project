@@ -1,0 +1,10 @@
+cw 90
+right 100
+takeoff
+land
+flip f
+up 100
+left 100
+forward 100
+back 100
+down 100f
